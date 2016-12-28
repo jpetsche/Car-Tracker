@@ -1,3 +1,3 @@
 # Car-Tracker
 
-# A clone of our working repository for Hack ISU 2016
+ A clone of our working repository for Hack ISU 2016
